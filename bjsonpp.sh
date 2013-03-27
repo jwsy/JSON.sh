@@ -1,3 +1,4 @@
+# jwsy - https://github.com/jwsy/JSON.sh/blob/master/bjsonpp.sh
 # bash and egrep JSON prettyprinter 
 # Usage: ./bjsonpp.sh < jsonobj
 
