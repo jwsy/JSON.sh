@@ -1,3 +1,5 @@
+bjsonpp.sh can prettyprint JSON with bash & egrep thanks to @dominictarr and his awesome program.
+
 # JSON.sh
 
 yo, so it's a json parser written in bash
